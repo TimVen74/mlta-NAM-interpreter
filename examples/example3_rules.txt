@@ -1,0 +1,34 @@
+#0 -> xR
+#1 -> yr
+
+R0 -> 0R
+r0 -> 0r
+R1 -> 1R
+r1 -> 1r
+Ra -> aR
+ra -> ar
+Rb -> bR
+rb -> br
+
+R -> al
+r -> bl
+
+al -> la
+bl -> lb
+0l -> l0
+1l -> l1
+
+xl -> x#
+yl -> y#
+
+#a -> a
+#b -> b
+
+x -> 0
+y -> 1
+a -> 0
+b -> 1
+
+1 ->. 1
+
+@ -> #
